@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julius Dejon</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Front-End Engineer with Full Stack Experience</h3>
 
-- 🏡 I’m currently working as Student Researcher at **George Brown College**
-
-- 📚 I’m currently learning **solidity, svelte**
-
-
+I'm a software professional specializing in web and mobile platforms, with a strong interest in cutting-edge technologies, astronomy, and finance.
 # 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
