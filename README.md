@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Julius Dejon</h1>
+<h2 align="center">Hi 👋, I'm Julius Dejon</h2>
 <h3 align="center">Front-End Engineer with Full Stack Experience</h3>
 
 I'm a software professional specializing in web and mobile platforms, with a strong interest in cutting-edge technologies, astronomy, and finance.
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -25,10 +25,6 @@ I'm a software professional specializing in web and mobile platforms, with a str
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=juliusdejon&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/julius-dejon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/julius-dejon" height="30" width="40" /></a>
