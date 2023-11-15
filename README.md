@@ -1,5 +1,4 @@
-<h2 align="center">Hi 👋, I'm Julius Dejon</h2>
-<h3 align="center">Front-End Engineer with Full Stack Experience</h3>
+<h2>Hi 👋, I'm Julius Dejon</h2>
 
 I'm a software professional specializing in web and mobile platforms, with a strong interest in cutting-edge technologies, astronomy, and finance.
 ### 💻 Tech Stack:
